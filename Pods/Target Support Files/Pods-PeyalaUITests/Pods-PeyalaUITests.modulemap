@@ -1,0 +1,6 @@
+framework module Pods_PeyalaUITests {
+  umbrella header "Pods-PeyalaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

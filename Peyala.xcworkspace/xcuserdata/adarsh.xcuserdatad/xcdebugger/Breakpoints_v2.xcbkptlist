@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLLoginViewController/PYLLoginViewController.swift"
+            timestampString = "505136026.31025"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "successTaskLoginApi(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLLoginViewController/PYLLoginViewController.swift"
+            timestampString = "505136031.390364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "successTaskIsUserLoginApi(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLServiceOptions/PYLServiceViewController.swift"
+            timestampString = "505226499.349397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "getCurrentLocationAndFindBranch(_:enableButton:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLServiceViewController.(getCurrentLocationAndFindBranch (Swift.String, enableButton : __ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adarsh/Documents/SVN/Peyala/SrcCode/Peyala/Peyala/ViewControllers/PYLServiceOptions/PYLServiceViewController.swift"
+                  timestampString = "505226499.353081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "1159">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLServiceViewController.(getCurrentLocationAndFindBranch (Swift.String, enableButton : __ObjC.UIButton) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adarsh/Documents/SVN/Peyala/SrcCode/Peyala/Peyala/ViewControllers/PYLServiceOptions/PYLServiceViewController.swift"
+                  timestampString = "505226499.353222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "374"
+                  endingLineNumber = "374"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLServiceOptions/PYLServiceViewController.swift"
+            timestampString = "505226506.526354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "376"
+            endingLineNumber = "376"
+            landmarkName = "getCurrentLocationAndFindBranch(_:enableButton:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLServiceOptions/PYLServiceViewController.swift"
+            timestampString = "505229610.485058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "523"
+            endingLineNumber = "523"
+            landmarkName = "getCurrentLocationAndFindBranch(_:enableButton:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

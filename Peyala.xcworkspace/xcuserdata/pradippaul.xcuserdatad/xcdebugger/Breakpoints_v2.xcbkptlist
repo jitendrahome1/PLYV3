@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Peyala/ViewControllers/PYLServiceOptions/PYLTakeAwayServicePopUpViewController.swift"
+            timestampString = "517223886.713739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "PYLTakeAwayServicePopUpViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLTakeAwayServicePopUpViewController.buttonTakeAwayLater.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradippaul/SVN%20Repository/Peyala/Swift3/Conversion/Peyala/ViewControllers/PYLServiceOptions/PYLTakeAwayServicePopUpViewController.swift"
+                  timestampString = "517232208.278166"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLTakeAwayServicePopUpViewController.buttonTakeAwayLater.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradippaul/SVN%20Repository/Peyala/Swift3/Conversion/Peyala/ViewControllers/PYLServiceOptions/PYLTakeAwayServicePopUpViewController.swift"
+                  timestampString = "517232208.280745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLTakeAwayServicePopUpViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Peyala.PYLTakeAwayServicePopUpViewController"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradippaul/SVN%20Repository/Peyala/Swift3/Conversion/Peyala/ViewControllers/PYLServiceOptions/PYLTakeAwayServicePopUpViewController.swift"
+                  timestampString = "517232208.283399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Peyala.PYLTakeAwayServicePopUpViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Peyala.PYLTakeAwayServicePopUpViewController&gt;"
+                  moduleName = "Peyala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pradippaul/SVN%20Repository/Peyala/Swift3/Conversion/Peyala/ViewControllers/PYLServiceOptions/PYLTakeAwayServicePopUpViewController.swift"
+                  timestampString = "517232208.286049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

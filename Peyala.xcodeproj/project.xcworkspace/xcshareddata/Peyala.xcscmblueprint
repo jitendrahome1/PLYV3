@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22b12f98-cb3b-074b-afb7-d31c6308c345++7331",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "22b12f98-cb3b-074b-afb7-d31c6308c345++7331" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "22b12f98-cb3b-074b-afb7-d31c6308c345++7331" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA64DE91-6A69-4DED-8DA0-83FE129D1366",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "22b12f98-cb3b-074b-afb7-d31c6308c345++7331" : "NewDeliveryModuleSourceCode\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Peyala",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Peyala\/Peyala.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.0.8.252:10001\/svn\/Peyala",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22b12f98-cb3b-074b-afb7-d31c6308c345++7331"
+    }
+  ]
+}

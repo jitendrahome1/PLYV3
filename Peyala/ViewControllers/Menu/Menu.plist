@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MenuItems</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Home</string>
+			<key>image</key>
+			<string>MenuHome</string>
+			<key>storyboard</key>
+			<string>Services</string>
+			<key>class</key>
+			<string>PYLDashBoardViewController</string>
+			<key>loginRequired</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>My Order</string>
+			<key>image</key>
+			<string>MenuMyOrder</string>
+			<key>storyboard</key>
+			<string>Services</string>
+			<key>class</key>
+			<string>PYLMyOrderViewController</string>
+			<key>loginRequired</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>My Profile</string>
+			<key>image</key>
+			<string>MenuProfileIcon</string>
+			<key>storyboard</key>
+			<string>Main</string>
+			<key>class</key>
+			<string>PYLMyProfileViewController</string>
+			<key>loginRequired</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>My Peyala Cash</string>
+			<key>image</key>
+			<string>MenuMyOrder</string>
+			<key>storyboard</key>
+			<string>Other</string>
+			<key>class</key>
+			<string>PYLMyPeyalaCashViewController</string>
+			<key>loginRequired</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Reach Peyala</string>
+			<key>image</key>
+			<string>MenuReachPeyalaIcon</string>
+			<key>subMenu</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Locate Us</string>
+					<key>image</key>
+					<string>MenuLocation</string>
+					<key>storyboard</key>
+					<string>Utility</string>
+					<key>class</key>
+					<string>PYLBranchListViewController</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>About Us</string>
+					<key>image</key>
+					<string>MenuAboutUs</string>
+					<key>storyboard</key>
+					<string>Main</string>
+					<key>class</key>
+					<string>PYLAboutUsViewController</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Contact Us</string>
+					<key>image</key>
+					<string>MenuContactUs</string>
+					<key>storyboard</key>
+					<string>Utility</string>
+					<key>class</key>
+					<string>PYLContactUsViewController</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>We are social</string>
+			<key>image</key>
+			<string>MenuWeareSocialIcon</string>
+			<key>subMenu</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Peyala on facebook</string>
+					<key>image</key>
+					<string>MenuFacebookIcon</string>
+					<key>storyboard</key>
+					<string>Services</string>
+					<key>class</key>
+					<string>PYLSocialPagesViewController</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Peyala on Instagram</string>
+					<key>image</key>
+					<string>MenuInstagramIcon</string>
+					<key>storyboard</key>
+					<string>Services</string>
+					<key>class</key>
+					<string>PYLSocialPagesViewController</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>FAQ</string>
+			<key>image</key>
+			<string>MenuFaq</string>
+			<key>storyboard</key>
+			<string>Main</string>
+			<key>class</key>
+			<string>PYLFreqAskedQuestionViewController</string>
+			<key>loginRequired</key>
+			<string>NO</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Rate us on App Store</string>
+			<key>image</key>
+			<string>MenuRateUsIcon</string>
+			<key>storyboard</key>
+			<string></string>
+			<key>class</key>
+			<string></string>
+			<key>loginRequired</key>
+			<string>NO</string>
+		</dict>
+	</array>
+</dict>
+</plist>

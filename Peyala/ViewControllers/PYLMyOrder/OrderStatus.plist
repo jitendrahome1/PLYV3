@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OrderStatus</key>
+	<array>
+		<dict>
+			<key>OrderStatusText</key>
+			<string>Payment Awaiting</string>
+			<key>StatusImage</key>
+			<string>PaymentAwaiting</string>
+			<key>StatusImageSelected</key>
+			<string>PaymentAwaitingDone</string>
+			<key>OrderStatus</key>
+			<true/>
+			<key>OrderStatusKey</key>
+			<string>PAYMENT_AWAITING</string>
+		</dict>
+		<dict>
+			<key>OrderStatusText</key>
+			<string>Order Received</string>
+			<key>StatusImage</key>
+			<string>OrderReceivedOne</string>
+			<key>StatusImageSelected</key>
+			<string>OrderReceivedTwo</string>
+			<key>OrderStatus</key>
+			<true/>
+			<key>OrderStatusKey</key>
+			<string>ORDER_RECEIVED</string>
+		</dict>
+		<dict>
+			<key>OrderStatusText</key>
+			<string>Order Ready</string>
+			<key>StatusImage</key>
+			<string>OrderReadyOne</string>
+			<key>StatusImageSelected</key>
+			<string>OrderReadyTwo</string>
+			<key>OrderStatus</key>
+			<false/>
+			<key>OrderStatusKey</key>
+			<string>ORDER_READY</string>
+		</dict>
+		<dict>
+			<key>OrderStatusText</key>
+			<string>Out For Delivery</string>
+			<key>StatusImage</key>
+			<string>OutForDeliveryOne</string>
+			<key>StatusImageSelected</key>
+			<string>OutForDeliveryTwo</string>
+			<key>OrderStatus</key>
+			<false/>
+			<key>OrderStatusKey</key>
+			<string>OUT_FOR_DELIVERY</string>
+		</dict>
+		<dict>
+			<key>OrderStatusText</key>
+			<string>Delivered</string>
+			<key>StatusImage</key>
+			<string>DeliveredOne</string>
+			<key>StatusImageSelected</key>
+			<string>DeliveredTwo</string>
+			<key>OrderStatus</key>
+			<false/>
+			<key>OrderStatusKey</key>
+			<string>DELIVERED</string>
+		</dict>
+	</array>
+</dict>
+</plist>
